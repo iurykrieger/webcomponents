@@ -1,0 +1,13 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": [
+          "last 3 major versions",
+          "last 6 chrome versions",
+          "last 6 firefox versions"
+        ]
+      }
+    }]
+  ]
+}
